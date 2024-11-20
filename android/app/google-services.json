@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48963002232",
+    "project_id": "chocolatemyapp",
+    "storage_bucket": "chocolatemyapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48963002232:android:82a3309accd9a060b1f28d",
+        "android_client_info": {
+          "package_name": "com.example.chocolate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRij5WXscCcVr_BWLWWrCJI3hogD_j6F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
